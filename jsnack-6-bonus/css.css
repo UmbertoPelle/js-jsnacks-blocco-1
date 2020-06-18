@@ -11,6 +11,7 @@ body{
   background-image: url("https://i.pinimg.com/originals/0a/29/3a/0a293a8e7ef424a32fbc20d75bd458c0.jpg");
   background-position: top;
   background-repeat: no-repeat;
+  background-size: cover; 
 }
 
 #btn{
