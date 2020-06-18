@@ -6,3 +6,11 @@
   opacity: 1;
   transition: 1s;
 }
+
+#btn{
+  width: 236px;
+  margin-left: calc(50% - 118px);
+  border-radius: 15px;
+  background-color: red;
+  font-size: 30px;
+}
