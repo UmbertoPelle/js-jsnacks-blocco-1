@@ -16,10 +16,10 @@ document.getElementById('btn').addEventListener("click", function(){
 
   if (resto == 1) {
     croce.className = "show";
-    alert("Dispari");
+    alert("Croce");
   }else {
     testa.className = "show" ;
-    alert("Pari");
+    alert("Testa");
   }
 
 })
